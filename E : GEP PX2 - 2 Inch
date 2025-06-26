@@ -7,3 +7,57 @@ Receiver  >  TBS NANO RTECEIVER WITH BIG ANTENNA
 Antennas  >  RUSHFPV Cherry 2 II 5.8G 1.8DBI FPV Antenna LHCP RHCP SMA UFL IPEX MMCX for FPV Freestyle Analog 
 capacitor >  35V 470Uf / TVS MODULE  JHEMCU 3-6S TVS Module Transient Voltage Suppressor Filtering Suppression Board for RC FPV Racing Drone Capacitor Parts
 Battery   >  DogCom 3S 650/850mah 150/300C 
+# --- GEP PX2 2" Build: Initial Betaflight Tuning Script (for BF 4.3+) ---
+# Stack: JHEMCU F405 NOXE V2, EM40A Bluejay (DSHOT600), T-Motor F1203 7000kv, 3S
+
+# --- PID Tuning ---
+set p_pitch = 65
+set i_pitch = 65
+set d_pitch = 42
+set f_pitch = 70
+
+set p_roll = 60
+set i_roll = 60
+set d_roll = 38
+set f_roll = 70
+
+set p_yaw = 45
+set i_yaw = 45
+set d_yaw = 0
+set f_yaw = 60
+
+# --- Filter Settings ---
+set gyro_lowpass2_hz = 0
+set gyro_lowpass_hz = 150
+set gyro_lowpass_type = PT1
+
+set dterm_lowpass2_hz = 0
+set dterm_lowpass_hz = 100
+set dterm_lowpass_type = PT1
+
+set dyn_notch_count = 3
+set dyn_notch_q = 250
+set dyn_notch_min_hz = 90
+set dyn_notch_max_hz = 350
+
+# --- Motor/ESC ---
+set dshot_bidir = ON           # Enable bidirectional DShot (if Bluejay RPM filtering is enabled)
+set motor_pwm_protocol = DSHOT600
+set motor_pwm_rate = 48        # 48kHz recommended for Bluejay
+
+# --- Feedforward ---
+set feedforward_transition = 0
+set feedforward_averaging = 2
+
+# --- TPA ---
+set tpa_rate = 65
+set tpa_breakpoint = 1350
+
+# --- Additional ---
+set anti_gravity_gain = 3500
+set iterm_relax = RP
+set iterm_relax_cutoff = 15
+set thrust_linear = 25
+
+# --- Save ---
+save

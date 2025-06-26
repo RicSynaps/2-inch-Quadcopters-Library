@@ -10,3 +10,5 @@ CAMERA MICRO OR NANO : CADDX ANT Ultra Light FPV Nano Camera 16:9/ Runcam Phoeni
 ANTENNAS             : RUSHFPV Cherry 2 II 5.8G 1.8DBI FPV Antenna LHCP RHCP SMA UFL IPEX MMCX for FPV Freestyle Analog 
 
 ANTENNAS             : TBS 80mm 915MHZ 2.4G IPEX 4 T-type Antenna for TBS CROSSFIRE Receiver 900MHZ FPV Racing FPV Drone
+
+Propellers           : Gemfan Hurricane 2023 Propeller 3-blade/ Gemfan 2040 2.0x4.0 FPV

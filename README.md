@@ -1,4 +1,4 @@
-                                               Quadcopter 2 inch , build & Parts/ ALL BOARDS ARER 20X20mm
+                           Quadcopter 2 inch , build & Parts/ ALL BOARDS ARER 20X20mm
 Flight Controller    :  JHEMCU F405 NOXE V2 Flight Controller Baro OSD 16MB BlackBox 5V 10V Dual BEC 20X20mm 3-6S LIPO FPV Freestyle Drone
 
 ESC SPEED CONTROLLER :JHEMCU EM40A Bluejay ESC DShot600 2-6S 4in1 Brushless ESC for FPV Racing Freestyle Micro Drones DIY Parts Accesorio

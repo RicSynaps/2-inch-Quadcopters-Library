@@ -1,5 +1,5 @@
                        Quadcopter 2 inch , build & Parts/ ALL BOARDS ARE 20X20mm / PID & Settings supplied by the GITHUB A.I 
-Flight Controller    :  JHEMCU F405 NOXE V2 Flight Controller Baro OSD 16MB BlackBox 5V 10V Dual BEC 20X20mm 3-6S LIPO FPV Freestyle Drone
+Flight Controller    :  JHEMCU F405 NOXE V2 Flight Controller Baro OSD 16MB BlackBox 5V 10V Dual BEC 20X20mm 3-6S LIPO FPV Freestyle Drone/ GHF405AIO-HD 40A AIO Flight Controller
 
 ESC SPEED CONTROLLER :JHEMCU EM40A Bluejay ESC DShot600 2-6S 4in1 Brushless ESC for FPV Racing Freestyle Micro Drones DIY Parts Accesorio
 

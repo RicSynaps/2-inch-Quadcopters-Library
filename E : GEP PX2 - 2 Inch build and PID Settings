@@ -9,7 +9,7 @@ capacitor >  35V 470Uf / TVS MODULE  JHEMCU 3-6S TVS Module Transient Voltage Su
 Battery   >  DogCom 3S 650/850mah 150/300C 
 Propellers >  Gemfan Hurricane 2023 Propeller 3-blade/ Gemfan 2040 2.0x4.0 FPV
                
-                                 PID SETTINGS BY GITHUB A.I
+                                 PID SETTINGS BY GITHUB A.I 
 
 # --- GEP PX2 2" Build: Initial Betaflight Tuning Script (for BF 4.3+) ---
 # Stack: JHEMCU F405 NOXE V2, EM40A Bluejay (DSHOT600), T-Motor F1203 7000kv, 3S
